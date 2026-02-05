@@ -18,7 +18,7 @@ A dynamic web-based application that helps users plan and manage wedding events 
 
 📸 Screenshots
 Home Page
-![img alt] (https://github.com/battulanaveen16/Wedding--Event---Management/blob/a305851358405ebcabef96ff6b3748b08ecf991c/homepage.PNG)
+![img alt](https://github.com/battulanaveen16/Wedding--Event---Management/blob/a305851358405ebcabef96ff6b3748b08ecf991c/homepage.PNG)
 
 
 
