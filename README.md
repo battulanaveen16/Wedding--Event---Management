@@ -18,8 +18,6 @@ A dynamic web-based application that helps users plan and manage wedding events 
 
 📸 Screenshots
 Home Page
-<img width="1819" height="892" alt="image" src="https://github.com/user-attachments/assets/1c98e089-2dc2-450c-a63c-e217f0f50e38"
-
 
 
 
