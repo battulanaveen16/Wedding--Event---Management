@@ -24,7 +24,7 @@ A dynamic web-based application that helps users plan and manage wedding events 
 ### 🚀 Steps to Run the Project
 
 1. **Clone the Repository**
-  
+  https://github.com/battulanaveen16/Wedding--Event---Management
 2. **Place the Folder**  
     - Move the project folder to your htdocs (XAMPP) or www (WAMP) directory.
 
