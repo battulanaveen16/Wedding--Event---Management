@@ -19,6 +19,8 @@ A dynamic web-based application that helps users plan and manage wedding events 
 📸 Screenshots
 Home Page
 ![img alt](https://github.com/battulanaveen16/Wedding--Event---Management/blob/a305851358405ebcabef96ff6b3748b08ecf991c/homepage.PNG)
+Full Wedding Package Page
+![img alt](
 
 
 
@@ -50,7 +52,7 @@ Wedding-Event-Management/
 ├── Images/
 
 ## 👨‍💻 Author
-NAVEEN BATHILA-battulanaveen16@gmail.com
+NAVEEN BATHULA-battulanaveen16@gmail.com
 
 ## 🤝 Contributing
   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
